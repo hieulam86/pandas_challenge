@@ -10,4 +10,4 @@ Two Conclusions and Comparisons according to the calculations:
 
 2.  Based on the calculations, smaller schools with less than 1000 students tend to have higher average scores and passing percentages than medium and large-sized schools. This suggests that small-sized schools may provide a more conducive environment for personalised attention and effective teaching strategies.
 
-These conclusions highlight nature of educational outcomes and underscore the importance of focusing on effective teaching practices, student engagement, and resource allocation rathan relying solely on higher budgets or school sizes.
+These conclusions highlight nature of educational outcomes and underscore the importance of focusing on effective teaching practices, student engagement, and resource allocation rather than relying solely on higher budgets or school sizes.
